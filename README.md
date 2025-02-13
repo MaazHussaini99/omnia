@@ -1,4 +1,4 @@
-# omnia
+# Omnia - Super App
 
 A new Flutter project.
 

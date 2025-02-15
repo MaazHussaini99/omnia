@@ -1,6 +1,11 @@
 # Omnia - Super App
 
-A new Flutter project.
+A Super App
+
+## Features
+
+- Chatting with friends using emaails. Support for using phone numbers coming soon.
+- Friends coming soon!
 
 ## Getting Started
 
